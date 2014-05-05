@@ -1,6 +1,14 @@
-## v1.11 (Planned)
+## v1.13 (May 2nd, 2014)
 
-* 
+* Fixed ISO Urls (#47)
+
+## v1.12 (April 29th, 2014)
+
+* Update OpenSSH
+
+## v1.11 (April 5th, 2014)
+
+* Change the default shell for OpenSSH from /bin/bash to /bin/sh (#45)
 
 ## v1.10 (March 18th, 2014)
 
